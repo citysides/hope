@@ -34,16 +34,13 @@
       <table>
         <tr>
           <td>
-            <a href="https://github.com/ju99/e/wiki?src=jww">网址1</a>
+            <a href="https://github.com/hao369/a/wiki/jyg">网址1</a>
           </td>
           <td>
-            <a href="https://github.com/hao369/a/wiki/jyg">网址2</a>
+            <a href="https://github.com/oGate2/oGate/blob/master/README.md">网址2</a>
           </td>
           <td>
-            <a href="https://github.com/oGate2/oGate/blob/master/README.md">网址3</a>
-          </td>
-          <td>
-            <a href="https://github.com/osurf/osurf/blob/master/README.md">网址4</a>
+            <a href="https://github.com/shortpathway/books/blob/master/README.md">禁书下载</a>
           </td>
         </tr>
       </table>
@@ -53,7 +50,7 @@
   <tr>
   <td align=center>
     <b>☆ 若收藏或分享本站，二维码在此▼</b></br>
-    <img src="http://pan.baidu.com/share/qrcode?w=200&h=200&url=https://github.com/citysides/hope/blob/master/README.md" alt="">
+    <img src="http://qr.liantu.com/api.php?&w=200&m=10&text=https://github.com/citysides/hope/blob/master/README.md" alt="">
   </td>
   </tr>
 </table>
